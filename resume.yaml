@@ -33,7 +33,7 @@ cv:
       - company: "[GDSC Solution Challenge](https://little-leaf.netlify.app/)"
         position: "Front-End Devloper / UI-UX Designer"
         start_date: "2024-02"
-        end_date: "2023-04"
+        end_date: "2024-04"
         highlights:
           - "Design the UI-UX for the website"
           - "Made the deployement of Google Maps API on GCP "
@@ -41,7 +41,7 @@ cv:
       - company: "[GDSC-WOW](https://wow24.vercel.app/)"
         position: "Webdevloper "
         start_date: "2024-03"
-        end_date: "2023-04"
+        end_date: "2024-04"
         highlights:
           - "Base Frontend for team to work on componets"
           - "UX improvement for the Website "
