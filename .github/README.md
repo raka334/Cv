@@ -15,7 +15,7 @@ Upon creating a tag (by triggering the [Tag Workflow](/.github/workflows/tag.yml
 1. Fork the repo
 2. Update resume.yaml with your own content
 3. Trigger the GitHub Action to compile the PDF
-4. A cup of coffee it take minium 10 min (*Brew a coffee*)
+4. A cup of coffee it takes minium 10 min (*Brew a coffee*)
 
 ---
 
